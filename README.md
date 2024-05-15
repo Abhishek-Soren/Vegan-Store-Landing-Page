@@ -1,0 +1,2 @@
+# Vegan-Store-Landing-Page
+A simple Vegan Store Landing page with only HTML and CSS and no use of any CSS libraries.
